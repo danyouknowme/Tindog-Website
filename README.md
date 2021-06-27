@@ -1,3 +1,2 @@
-<!-- # Tindog-Website -->
-<h1 align="center">Tindog-Website</h1>
+# Tindog-Website
 Create Website that looks like the Tinder website.
